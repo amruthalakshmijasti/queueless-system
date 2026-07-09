@@ -24,4 +24,4 @@ npm start
 ### Server
 cd server  
 npm install  
-npm start  
+npm start
